@@ -17,9 +17,9 @@ theme:
         primary: indigo
         accent: red
 
-    # font:
-    #     text: Ubuntu
-    #     code: Ubuntu Mono
+    font:
+        text: Nanum Gothic # Ubuntu Mono
+        code: Nanum Gothic Coding
 
 
 nav:
