@@ -22,11 +22,11 @@ theme:
     #     code: Ubuntu Mono
 
 
-
-
 nav:
     - Home: index.md
-    - DFS: dfs.md
+    - Graph:
+          - '소개': graph/01_basic.md
+          - 'DFS': graph/dfs.md
 
 plugins:
     - search
